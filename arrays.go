@@ -51,6 +51,7 @@ func main() {
 	slice[0] = 3
 	slice[1] = 4
 	slice[2] = 5
+	//slice[7] = 9 // index out of range
 	fmt.Println(slice)
 //	spread operator
 	slice = append(slice, []int{5, 7}...)
