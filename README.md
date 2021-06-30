@@ -1,4 +1,6 @@
 ## Notes
+## Credit: freeCodeCamp.org tutorial
+https://www.youtube.com/watch?v=YS4e4q9oBaU
 ### Variable declaration
 - three ways to declare
     - var foo int
